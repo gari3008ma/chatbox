@@ -1,2 +1,2 @@
 # Chat-App
-Chat App using Node js
+Chat App using Node js and socket.io
