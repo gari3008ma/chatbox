@@ -6,5 +6,4 @@ Chat App using Node js and socket.io
 npm install
 
 ### feature
-
-You can run it on port 3008.
+ run it on port 3008.
